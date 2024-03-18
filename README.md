@@ -15,4 +15,5 @@
     <li>Arquitetura MVC</li>
     <li>Método para codificação de dados(base64)</li>
     <li>Operator Spread</li>
+    <li>Trabalhando com FileReader</li>
 </li>
